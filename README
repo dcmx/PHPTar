@@ -1,0 +1,16 @@
+PHPTar 1.0.0
+Dominik Kaaser dominik@kaaser.at
+https://kaaser.at/
+Copyright 2014, 2017
+
+PHPTar
+
+PHPTar is a collection of a few simple classes that create tar-archives in a
+web-application. PHPTar is written in PHP. It provides a simple interface for
+packing individual files or entire folders into an archive.
+
+LICENSE
+
+This project is licensed under a MIT license, see the file LICENSE in the
+project's main directory.
+
